@@ -1,0 +1,27 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/ALUControl_tb.vhd,1715422584,vhdl,,,,alucontrol_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/ALU_tb.vhd,1715423518,vhdl,,,,alu_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/SIGNEXT_tb.vhd,1715364650,vhdl,,,,signext_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/SL2_tb.vhd,1715364905,vhdl,,,,sl2_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/data_memory_tb.vhd,1715349226,vhdl,,,,data_memory_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/instruction_mem_tb.vhd,1715431293,vhdl,,,,instruction_mem_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/processor_tb.vhd,1715623991,vhdl,,,,processor_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/register_file_tb.vhd,1715455150,vhdl,,,,register_file_tb,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/tb_adder.vhd,1715346866,vhdl,,,,tb_adder,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sim_1/new/tb_program_counter.vhd,1715194211,vhdl,,,,tb_program_counter,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/ALU.vhd,1715423370,vhdl,,,,alu,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/ALUControl.vhd,1715422133,vhdl,,,,alucontrol,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/SIGNEXT.vhd,1715364672,vhdl,,,,signext,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/SL2.vhd,1715364905,vhdl,,,,sl2,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/adder.vhd,1715202865,vhdl,,,,adder,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/data_memory.vhd,1715199943,vhdl,,,,data_memory,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/instruction_mem.vhd,1716200592,vhdl,,,,instruction_mem,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/mainControl.vhd,1716116278,vhdl,,,,maincontrol,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/mux_32.vhd,1715621347,vhdl,,,,mux_32,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/mux_5.vhd,1715624700,vhdl,,,,mux_5,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/processor.vhd,1715624771,vhdl,,,,processor,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/program_counter.vhd,1715194115,vhdl,,,,program_counter,,,,,,,,
+C:/Users/onatb/single_cycle_processor/single_cycle_processor.srcs/sources_1/new/register_file.vhd,1716118654,vhdl,,,,register_file,,,,,,,,
